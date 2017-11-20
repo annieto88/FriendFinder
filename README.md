@@ -2,7 +2,7 @@
 
 ## Description
 -This is a Friend Finder app using Node and Express servers.</br>
--I was not able to deploy to Heroku. I keep getting a 'push rejected' error message. I am still working on fixing this. </br>
+-I was not able to deploy to Heroku. I keep getting a 'push rejected' error message. I will continue to search google for solutions if not then I'll ask one of the TAs. </br>
 
 ## Getting Started
 -Clone repo </br>
