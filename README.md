@@ -2,13 +2,20 @@
 
 ## Description
 -This is a Friend Finder app using Node and Express servers.
--This app is unfinished and I will be spending more time on it to make it functional with the help if Google and the TAs in class.
+
+##Getting Started
+-Clone repo </br>
+-Install NPM package Express </br>
+-Install NPM package Body-parser </br>
+-Install NPM package Path </br>
+-Open terminal and run command node server.js </br>
+-Run 'ctrl + c' to exit </br>
 
 ## Technologies Used
--node.js
--Inquirer NPM package
--Express NPM package
--Body-parser NPM package
+-node.js </br>
+-Inquirer NPM package </br>
+-Express NPM package </br>
+-Body-parser NPM package </br>
 
 ## Authors
 Annie To
