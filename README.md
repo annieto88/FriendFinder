@@ -3,7 +3,7 @@
 ## Description
 -This is a Friend Finder app using Node and Express servers.
 
-##Getting Started
+## Getting Started
 -Clone repo </br>
 -Install NPM package Express </br>
 -Install NPM package Body-parser </br>
